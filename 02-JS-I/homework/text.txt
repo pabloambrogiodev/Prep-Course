@@ -1,0 +1,23 @@
+# Conceptos:
+
+    - Variables: 
+                La variable es como si fuera una caja o un contenedor, donde se le asigna un nombre y guarda un valor para ser utilizado mas tarde.
+
+    - Strings: 
+                Es todo lo que está entre comillas simples o dobles.
+
+    - Funciones 
+                - ( argumentos ):
+                                Los argumentos son variables que se declaran en los parentesis de una funcion donde después se toma ese valor y se ejecuta en el código.
+
+                - ( return ):
+                                Sirve para poder obtener los datos fuera de la funcion. Una vez que dentro de la funcion llega a la linea de 'return' se detiene inmediatamente lo que se está ejecutando y devuelve lo especificado, esto quiere decir que si debajo de return hay mas lineas de códigos no se van a ejecutar.
+
+    - Declaraciones if:
+                        La declaracion 'if' verifica si algo se comple, si es 'true', si esto es asi ejecuta la primer parte de código, en el caso contrario de ser 'false' salta el código y 'return false'.
+
+    - Valores booleanos:
+                        Es un tipo de dato que se declara en una variable para luego verificar si es 'true' o 'false'.
+
+
+    
