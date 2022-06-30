@@ -1,0 +1,14 @@
+# Conceptos
+
+    - For: 
+        Es un bucle. Luego de escribir la palabra 'for' se debe abrir 2 paréntesis y dentro se declara una variable que se la iguala a un valor, luego ponemos la condicion que queremos que se cumpla y por último se le incrementa en 1 al valor actual hasta que se no se cumpla más la condicion.
+
+    - Operadores lógicos:
+                - ( && ):
+                        Lo que hace este operador es verificar que las 2 condiciones sean 'true', si una de ellas o ambas es 'false' se retornara 'false'.
+
+                - ( || ):
+                        Lo que hace este operador es verificar que una o más condicones sea 'true' y se ejecutará el código, solo es 'false' sino se cumple ninguna de las condiciones.
+
+                - ( ! ):
+                        Este operador cambia el valor booleano de la operación. Por ejemplo 1 == '1' en este caso es 'true' porque no verificar el tipo de dato, pero si ponemos 1 !== '1' también va a dar 'true' por se verifica el tipo de dato y el primero es tipo Number y el segundo es un String.
