@@ -1,0 +1,8 @@
+# Conceptos
+
+        - Arrays:
+                Es una caja contenedora donde puede almacenar todo tipos de datos, como numeros, string, funciones, booleanos. Se declara entre [] y para acceder facilmente a ellos solo se debe poner el nombre del array y poner la posicion que deseemos por ejemplo: 
+
+                    >  let array = [ 'Hola', 1, 250, true, false,'Henry' ];
+                    >  array[ 5 ];
+                    > 'Henry'
